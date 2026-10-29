@@ -1,5 +1,6 @@
 # Prolog_Practicals
 Experiment - 01 = Create a simple Knowledge Base using facts, predicates, clauses, and goals (Student-Course Database).
+
 Experiment - 02 = Implement arithmetic operations, Factorial, and Fibonacci Series using recursion.
 Experiment – 03 = Perform append, reverse, member search, and list length operations.
 Experiment – 04 = Develop a timetable database and answer queries regarding faculty, subjects, and classrooms.
